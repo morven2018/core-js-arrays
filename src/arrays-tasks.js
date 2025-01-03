@@ -634,7 +634,7 @@ function swapHeadAndTail(arr) {
 }
 
 module.exports = {
-  getIntervalArray,
+  /* getIntervalArray,
   sumArrays,
   findElement,
   findAllOccurrences,
@@ -661,7 +661,7 @@ module.exports = {
   getIndicesOfOddNumbers,
   getHexRGBValues,
   getMaxItems,
-  findCommonElements,
+  findCommonElements,*/
   findLongestIncreasingSubsequence,
   propagateItemsByPositionIndex,
   shiftArray,
